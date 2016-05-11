@@ -1,0 +1,15 @@
+#wrapper {
+    padding: 15px;
+    width: 30%;
+}
+#relationTableWrapp {
+    text-align: center;
+}
+.red {
+    color: red;
+    font-weight: bold;
+}
+.green {
+    color: green;
+    font-weight: bold;
+}
